@@ -1,24 +1,60 @@
-# README
+# Hello Rails React Mono Repo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![badge](https://img.shields.io/badge/Microverse-blueviolet)
 
-Things you may want to cover:
+> A mono repo app with Rails and React that generates random quotes.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- HTML5, CSS3
+- JavaScript ES6, React/Redux, Webpack, Rails, Ruby,and Sass,
+- CLI, TDD, gh-pages, Gitflow, Integration tests
 
-* Configuration
+## Getting Started
 
-* Database creation
+To get a local copy up and running follow these simple example steps:
 
-* Database initialization
+- Open Terminal.
+- Change the current working directory to the location you want the cloned directory.
+- Enter the following:
 
-* How to run the test suite
+```bash
+git clone git@github.com:jssol/hello-rails-react.git.
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+- Press Enter to create your local clone.
+- Navigate to the cloned repository by running:
 
-* Deployment instructions
+    ```bash
+    cd hello-rails-react/
+    ```
 
-* ...
+- Install all dependencies using:
+
+    ```bash
+    bundle && yarn install
+    ```
+
+- Run local server using:
+
+    ```bash
+    ./bin/dev
+    ```
+
+### Prerequisites
+
+- GitHub
+- Git
+- Node.js
+
+## Authors
+
+👤 **Jonathan Sivahera**
+
+- GitHub: [@jssol](https://github.com/jssol)
+- Twitter: [@jsivahera](https://twitter.com/jsivahera)
+- LinkedIn: [jsivahera](https://www.linkedin.com/in/jsivahera/)
+
+## Contributors
+
+Contributions, issues, and feature requests are welcome!
